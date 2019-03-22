@@ -6,7 +6,7 @@
  * Time: 17:52
  */
 
-namespace app;
+
 
 function get_db_config()
 {
