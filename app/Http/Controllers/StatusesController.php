@@ -25,5 +25,5 @@ class StatusesController extends Controller
         session()->flash('success', '发布成功！');
         return redirect()->back();
     }
-    
+
 }
